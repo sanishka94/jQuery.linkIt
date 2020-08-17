@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple jQuery plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Sanishka Jayasena",
+        "url": "https://san-d.org"
+    },
+    "maintainers": [
+        {
+            "name": "Sanishka Jayasena",
+            "email": "sanishka94@gmail.com",
+            "url": "https://san-d.org"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/sanishka94/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/sanishka94/jquery.linkIt",
+    "docs": "https://github.com/sanishka94/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}   
