@@ -1,2 +1,2 @@
-# jQuery.linkIt
-Simple jQuery plugin that allows you to attach a link to any element
+# LinkIt jQuery Plugin #
+**LinkIt** is a simple jQuery plugin to attach links to elements
